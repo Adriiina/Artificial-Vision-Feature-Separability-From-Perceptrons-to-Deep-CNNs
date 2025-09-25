@@ -55,7 +55,3 @@ Notebooks set a seed and create results/. Data-downloading notebooks set:
 import os, certifi
 os.environ["SSL_CERT_FILE"] = certifi.where()
 
-📄 License
-
-MIT (or your preferred license).
-
